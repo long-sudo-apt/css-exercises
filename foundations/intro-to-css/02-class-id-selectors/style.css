@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.is-red {
+  background-color: #faa4a4;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.text-medium {
+  font-size: 24px;
+}
+
+#green-bold {
+  background-color: #7dee8c;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+#blue {
+  color: rgb(14, 14, 220);
+  font-size: 36px;
+}
